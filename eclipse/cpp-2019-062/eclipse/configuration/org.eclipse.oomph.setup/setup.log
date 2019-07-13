@@ -1,0 +1,66 @@
+[2019-07-12 16:28:42] Executing bootstrap tasks
+[2019-07-12 16:28:42] OpenJDK Runtime Environment 1.8.0_212-8u212-b03-0ubuntu1.16.04.1-b03
+[2019-07-12 16:28:42] Product org.eclipse.products.epp.package.cpp.2019-06
+[2019-07-12 16:28:42] Bundle org.eclipse.oomph.setup 1.13.0.v20190530-1228, build=4030, branch=ed8d2fdcc99c1d3461399fc1bee02645433fa697
+[2019-07-12 16:28:42] Bundle org.eclipse.oomph.setup.core 1.13.0.v20190531-1228, build=4030, branch=ed8d2fdcc99c1d3461399fc1bee02645433fa697
+[2019-07-12 16:28:42] Bundle org.eclipse.oomph.setup.p2 1.11.0.v20190530-1228, build=4030, branch=ed8d2fdcc99c1d3461399fc1bee02645433fa697
+[2019-07-12 16:28:42] Performing P2 Director (Eclipse IDE for C/C++ Developers (2019-06))
+[2019-07-12 16:28:42] Offline = false
+[2019-07-12 16:28:42] Mirrors = true
+[2019-07-12 16:28:42] Resolving 40 requirements from 3 repositories to /home/sukhvir/eclipse/cpp-2019-062/eclipse
+[2019-07-12 16:28:42] Requirement epp.package.cpp [4.12.0,5.0.0)
+[2019-07-12 16:28:42] Requirement org.eclipse.platform.feature.group [4.12.0,5.0.0)
+[2019-07-12 16:28:42] Requirement org.eclipse.rcp.feature.group [4.12.0,5.0.0)
+[2019-07-12 16:28:42] Requirement org.eclipse.cdt.arduino.feature.group
+[2019-07-12 16:28:42] Requirement org.eclipse.cdt.autotools.feature.group
+[2019-07-12 16:28:42] Requirement org.eclipse.cdt.build.crossgcc.feature.group
+[2019-07-12 16:28:42] Requirement org.eclipse.cdt.cmake.feature.group
+[2019-07-12 16:28:42] Requirement org.eclipse.cdt.debug.gdbjtag.feature.group
+[2019-07-12 16:28:42] Requirement org.eclipse.cdt.debug.standalone.feature.group
+[2019-07-12 16:28:42] Requirement org.eclipse.cdt.debug.ui.memory.feature.group
+[2019-07-12 16:28:42] Requirement org.eclipse.cdt.docker.launcher.feature.group
+[2019-07-12 16:28:42] Requirement org.eclipse.cdt.feature.group
+[2019-07-12 16:28:42] Requirement org.eclipse.cdt.launch.remote.feature.group
+[2019-07-12 16:28:42] Requirement org.eclipse.cdt.launch.serial.feature.feature.group
+[2019-07-12 16:28:42] Requirement org.eclipse.cdt.meson.feature.group
+[2019-07-12 16:28:42] Requirement org.eclipse.cdt.mylyn.feature.group
+[2019-07-12 16:28:42] Requirement org.eclipse.cdt.qt.feature.group
+[2019-07-12 16:28:42] Requirement org.eclipse.cdt.testsrunner.feature.feature.group
+[2019-07-12 16:28:42] Requirement org.eclipse.egit.feature.group
+[2019-07-12 16:28:42] Requirement org.eclipse.epp.mpc.feature.group
+[2019-07-12 16:28:42] Requirement org.eclipse.linuxtools.cdt.libhover.devhelp.feature.feature.group
+[2019-07-12 16:28:42] Requirement org.eclipse.linuxtools.cdt.libhover.feature.feature.group
+[2019-07-12 16:28:42] Requirement org.eclipse.linuxtools.changelog.c.feature.group
+[2019-07-12 16:28:42] Requirement org.eclipse.linuxtools.gcov.feature.group
+[2019-07-12 16:28:42] Requirement org.eclipse.linuxtools.gprof.feature.feature.group
+[2019-07-12 16:28:42] Requirement org.eclipse.linuxtools.rpm.feature.group
+[2019-07-12 16:28:42] Requirement org.eclipse.linuxtools.valgrind.feature.group
+[2019-07-12 16:28:42] Requirement org.eclipse.mylyn.bugzilla_feature.feature.group
+[2019-07-12 16:28:42] Requirement org.eclipse.mylyn.context_feature.feature.group
+[2019-07-12 16:28:42] Requirement org.eclipse.mylyn.ide_feature.feature.group
+[2019-07-12 16:28:42] Requirement org.eclipse.mylyn.team_feature.feature.group
+[2019-07-12 16:28:42] Requirement org.eclipse.mylyn.wikitext_feature.feature.group
+[2019-07-12 16:28:42] Requirement org.eclipse.mylyn_feature.feature.group
+[2019-07-12 16:28:42] Requirement org.eclipse.tm.terminal.connector.cdtserial.feature.feature.group
+[2019-07-12 16:28:42] Requirement org.eclipse.tm.terminal.feature.feature.group
+[2019-07-12 16:28:42] Requirement org.eclipse.tracecompass.gdbtrace.feature.group
+[2019-07-12 16:28:42] Requirement org.eclipse.tracecompass.lttng2.control.feature.group
+[2019-07-12 16:28:42] Requirement org.eclipse.tracecompass.lttng2.kernel.feature.group
+[2019-07-12 16:28:42] Requirement org.eclipse.tracecompass.lttng2.ust.feature.group
+[2019-07-12 16:28:42] Requirement org.eclipse.oomph.setup.feature.group
+[2019-07-12 16:28:42] Repository http://download.eclipse.org/technology/epp/packages/2019-06
+[2019-07-12 16:28:42] Repository http://download.eclipse.org/releases/2019-06/201906191000
+[2019-07-12 16:28:42] Repository http://download.eclipse.org/oomph/updates/milestone/latest
+[2019-07-12 16:28:44] Calculating requirements and dependencies.
+[2019-07-12 16:28:45] Computing prerequisite plan
+[2019-07-12 16:28:46] Collecting 4 artifacts from http://download.eclipse.org/releases/2019-06/201906191000
+[2019-07-12 16:28:46] Downloading org.eclipse.cdt_root
+[2019-07-12 16:28:46] Downloading org.eclipse.rcp_root
+[2019-07-12 16:28:46] Downloading org.eclipse.platform_root
+[2019-07-12 16:28:46] Downloading org.eclipse.platform.ide.executable.gtk.linux.x86_64
+[2019-07-12 16:28:46] Collected 4 artifacts for http://download.eclipse.org/releases/2019-06/201906191000 in 0.345s
+[2019-07-12 16:28:46] Collecting 1 artifacts from http://download.eclipse.org/technology/epp/packages/2019-06
+[2019-07-12 16:28:46] Downloading epp.package.cpp.executable.gtk.linux.x86_64
+[2019-07-12 16:28:46] Collected 1 artifacts for http://download.eclipse.org/technology/epp/packages/2019-06 in 0.122s
+[2019-07-12 16:29:00] The engine operation was cancelled and the changes are being rolled back.
+[2019-07-12 16:29:00] 
